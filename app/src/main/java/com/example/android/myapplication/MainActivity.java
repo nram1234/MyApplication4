@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public void test(){
         int i =1*3;
+        i=88;
     }
 }
