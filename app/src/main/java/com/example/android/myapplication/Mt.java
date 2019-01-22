@@ -1,5 +1,5 @@
 package com.example.android.myapplication;
 
 public class Mt {
-    int uu=1000;
+    int uu=10000;
 }
